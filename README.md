@@ -29,7 +29,7 @@ images/                           图片文件夹，自己的图片都放这里
 
 | 版块 | id | 内容 |
 | --- | --- | --- |
-| 页头 | — | 姓名、一句话简介、邮箱、GitHub 图标 |
+| 页头 | — | 姓名、一句话简介、邮箱、GitHub / LinkedIn 图标 |
 | About Me | `#about` | 圆形头像 + 自我介绍 |
 | Research | `#research` | 4 个研究方向：配图 + 标题 + 描述 + 论文链接 |
 | Publications | `#publications` | 已发表论文、in preparation、会议报告 |
@@ -48,8 +48,8 @@ images/                           图片文件夹，自己的图片都放这里
 - [ ] **Research 配图** —— 4 张，论文里的图就很合适
 - [ ] **Hobbies** —— 简历里没有，现在是 Hobby one/two/three 占位
 - [ ] **Photo Gallery 照片** —— 会议、组会、旅行照片都行
-- [ ] **LinkedIn 链接** —— 页头里已经写好了，取消注释并填上链接即可
-- [ ] **Google Scholar 链接** —— 同上，建好主页后取消注释
+- [x] ~~**LinkedIn 链接**~~ —— 已加上
+- [ ] **Google Scholar 链接** —— 页头里代码已写好，只差 `user=` 后面那串 ID，取消注释填进去即可
 - [ ] **求职那段话** —— About Me 最后一段，按实际情况改或删
 
 ## 如何修改内容
