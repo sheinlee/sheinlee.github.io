@@ -8,7 +8,7 @@ Shicheng Li 的个人网站源码。用 GitHub Pages 托管，网址：<https://
 index.html                        网站主页（内容 + 样式 + 脚本都在这一个文件里）
 images/                           图片文件夹，自己的图片都放这里
   favicon.svg                     浏览器标签页的小图标，也用作页头图标
-  profile-placeholder.svg         About Me 头像占位图
+  profile.jpg                     About Me 头像（400×400，已裁成头肩特写、清掉 EXIF）
   placeholder.svg                 Research 配图占位图
   gallery-placeholder.svg         Photo Gallery 占位图
 .nojekyll                         让 GitHub Pages 直接发布静态文件，跳过 Jekyll 处理
@@ -44,7 +44,7 @@ images/                           图片文件夹，自己的图片都放这里
 
 在 `index.html` 里搜 `TODO` 就能挨个找到：
 
-- [ ] **个人照片** —— 放进 `images/`，把 About Me 里的 `profile-placeholder.svg` 换掉
+- [x] ~~**个人照片**~~ —— 已加上（想换的话，把新图放进 `images/` 再改 `index.html` 里的 `src` 即可；建议先裁成正方形头肩特写，因为显示区域是 180×180 的圆形）
 - [ ] **Research 配图** —— 4 张，论文里的图就很合适
 - [ ] **Hobbies** —— 简历里没有，现在是 Hobby one/two/three 占位
 - [ ] **Photo Gallery 照片** —— 会议、组会、旅行照片都行
