@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Placeholder project image">
+  <rect width="400" height="300" fill="#eef2ee"/>
+  <rect x="1" y="1" width="398" height="298" fill="none" stroke="#6a8d73" stroke-width="2" stroke-dasharray="10 8"/>
+  <g fill="#6a8d73">
+    <path d="M120 190h160l-46-62-34 44-22-26z"/>
+    <circle cx="152" cy="118" r="16"/>
+  </g>
+  <text x="200" y="232" text-anchor="middle" font-family="'Century Gothic', Helvetica, Arial, sans-serif" font-size="20" fill="#6a8d73">Your project image</text>
+  <text x="200" y="256" text-anchor="middle" font-family="'Century Gothic', Helvetica, Arial, sans-serif" font-size="13" fill="#9ab5a1">replace src with images/your-file.jpg</text>
+</svg>
